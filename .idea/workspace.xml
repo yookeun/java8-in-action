@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53a01cd2-daf3-419b-84e7-4a404069db7e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java8-in-action/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java8-in-action/chap1/Apple.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java8-in-action/chap1/FilteringApple.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java8-in-action/chap1/FilteringApple.class" afterPath="$PROJECT_DIR$/out/production/java8-in-action/chap1/FilteringApple.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -70,8 +69,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="330">
+              <caret line="22" column="69" lean-forward="false" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -99,7 +98,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/chap1/Apple.java" />
         <option value="$PROJECT_DIR$/src/chap1/FilteringApple.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -246,34 +244,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1502023721043</updated>
-      <workItem from="1502023725317" duration="1749000" />
+      <workItem from="1502023725317" duration="1212000" />
     </task>
-    <task id="LOCAL-00001" summary="gitignore 추가">
-      <created>1502197031757</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1502197031757</updated>
-    </task>
-    <task id="LOCAL-00002" summary="불필요한 커밋파일들 삭제">
-      <created>1502197371762</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1502197371762</updated>
-    </task>
-    <task id="LOCAL-00003" summary="불필요한 커밋파일들 삭제">
-      <created>1502197533435</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1502197533435</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1749000" />
+    <option name="totallyTimeSpent" value="1212000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="842" extended-state="6" />
@@ -315,11 +291,6 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="gitignore 추가" />
-    <MESSAGE value="불필요한 커밋파일들 삭제" />
-    <option name="LAST_COMMIT_MESSAGE" value="불필요한 커밋파일들 삭제" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -366,8 +337,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="330">
+          <caret line="22" column="69" lean-forward="false" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
           <folding />
         </state>
       </provider>

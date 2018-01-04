@@ -3,6 +3,7 @@ package chap1;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.function.Predicate;
 
 /**
  * Created by yookeun on 2017. 8. 8..
@@ -43,6 +44,8 @@ public class FilteringApple {
         for (Apple apple: heavyApples3) {
             System.out.println("heavy3: "+ apple.toString());
         }
+
+
 
 
     }
@@ -89,4 +92,6 @@ public class FilteringApple {
         return result;
 
     }
+
+
 }
